@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Tarefas para empresa SILVER
 
-Esse projeto foi criado para armazernar os repositórios dos projeto.
+Esse projeto foi criado para armazernar os repositórios do projerto para case técnico fullstack.
 
 # Backend
 
