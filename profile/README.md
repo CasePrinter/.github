@@ -12,7 +12,7 @@ Esse projeto foi criado para armazernar os repositórios dos projeto.
 
 # Frontend
 
-- O repositório do frontend está disponível em: [FRONTEND]([https://github.com/CasePrinter/todo-list-app](https://github.com/CasePrinter/todo-manager-app))
+- O repositório do frontend está disponível em: [FRONTEND](https://github.com/CasePrinter/todo-manager-app)
 - Para o desenvolvimento do _frontend_ foi utilizado o framework ReactJS.
 - O frontend em _homologação_, está disponível em: [FRONTEND](https://react-app-1009725684335.us-central1.run.app/)
 - Para utilizar o projeto deve seguir o que está informado em [_readme.md_](https://github.com/CasePrinter/todo-manager-app/blob/main/README.md)
