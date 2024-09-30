@@ -32,3 +32,5 @@ Esse projeto foi criado para armazernar os repositórios dos projeto.
 <img width="1325" alt="Captura de Tela 2024-09-30 às 11 50 06" src="https://github.com/user-attachments/assets/85a7cfa4-a1a0-4460-9855-7d8fac9455f5">
 <img width="788" alt="Captura de Tela 2024-09-30 às 11 50 15" src="https://github.com/user-attachments/assets/34ed6e26-0b7a-4658-aa7a-9309a3ac3012">
 <img width="1291" alt="Captura de Tela 2024-09-30 às 11 50 26" src="https://github.com/user-attachments/assets/0d6a6031-d7dd-4879-a72b-3452a2f22d81">
+<img width="1639" alt="Captura de Tela 2024-09-30 às 11 59 12" src="https://github.com/user-attachments/assets/2fb8b510-ceb6-4b54-90fc-e30b440b6fb0">
+<img width="1658" alt="Captura de Tela 2024-09-30 às 11 59 35" src="https://github.com/user-attachments/assets/5bc04208-4824-494c-9d86-94fa59168698">
